@@ -171,6 +171,37 @@ export default function DevIDCard() {
             </div>
           </div>
         </div>
+        <div className="max-w-4xl mx-auto my-10 bg-white rounded-xl shadow-lg overflow-hidden border">
+          <div className="grid grid-cols-1 md:grid-cols-2">
+            <div className="w-full h-32 md:h-auto bg-gray-100">
+              <img
+                src="https://i.ibb.co.com/BVcf70Rw/TYPOLOGY-ID-CARD.webp"
+                alt="Contoh Produk"
+                className="object-cover"
+              />
+            </div>
+
+            <div className="p-6 flex flex-col justify-between">
+              <div>
+                <h2 className="text-xl font-bold text-gray-800 mb-2">Custom ID Card - Cetak Fisik</h2>
+                <p className="text-sm text-gray-600 mb-2">Bahan: PVC</p>
+                <p className="text-sm text-gray-600 mb-2">Ukuran: Standar Kartu Anggota</p>
+                <p className="text-sm text-gray-600 mb-2">Harga: <span className="text-red-600 font-bold">Rp6.500</span></p>
+                <p className="text-sm text-gray-600 mb-4">Min. Pemesanan: 1 item</p>
+                <p className="text-sm text-gray-600 mb-4">Kartu ini terbuat dari bahan PVC, setebal standar member card pada umumnya. Ukurannya mengikuti standar member card, sehingga pas di dompet. Untuk ketahanan ekstra, tersedia juga opsi laminating. Ingin desain sesuai gaya pribadi atau branding komunitas? Tentu bisa, karena kami menerima custom desain. Bahkan, untuk Anda yang butuh fleksibilitas digital, kami juga menyediakan versi flashdisk card.</p>
+              </div>
+              <a
+                href="https://wa.me/6283150645824?text=Halo%2C%20saya%20tertarik%20dengan%20kartu%20PVC-nya.%20Boleh%20saya%20custom%20desain%3F%20Berapa%20lama%20prosesnya%20dan%20apakah%20bisa%20versi%20flashdisk%3F%20Saya%20suka%20banget%20konsepnya%21
+" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block text-center bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-4 rounded"
+              >
+                Beli Sekarang
+              </a>
+            </div>
+          </div>
+        </div>
       </motion.div>
     </AnimatePresence>
   );

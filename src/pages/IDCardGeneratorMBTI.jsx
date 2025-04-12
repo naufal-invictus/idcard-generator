@@ -268,12 +268,12 @@ export default function IDCardGenerator() {
 
             <div className="p-6 flex flex-col justify-between">
               <div>
-                <h2 className="text-xl font-bold text-gray-800 mb-2">Typology ID Card - Cetak Fisik</h2>
+                <h2 className="text-xl font-bold text-gray-800 mb-2">Custom ID Card - Cetak Fisik</h2>
                 <p className="text-sm text-gray-600 mb-2">Bahan: PVC</p>
                 <p className="text-sm text-gray-600 mb-2">Ukuran: Standar Kartu Anggota</p>
                 <p className="text-sm text-gray-600 mb-2">Harga: <span className="text-red-600 font-bold">Rp6.500</span></p>
                 <p className="text-sm text-gray-600 mb-4">Min. Pemesanan: 1 item</p>
-                <p className="text-sm text-gray-600 mb-4">Kartu ini terbuat dari bahan PVC, setebal standar member card pada umumnya dan tahan lama. Ukurannya mengikuti standar member card, sehingga pas di dompet. Untuk ketahanan ekstra, tersedia juga opsi laminating. Ingin desain sesuai gaya pribadi atau branding komunitas? Tentu bisa, karena kami menerima custom desain. Bahkan, untuk Anda yang butuh fleksibilitas digital, kami juga menyediakan versi flashdisk card. Dan soal hasil cetak, tenang saja, kualitas dan settingan printing dijamin tajam</p>
+                <p className="text-sm text-gray-600 mb-4">Kartu ini terbuat dari bahan PVC, setebal standar member card pada umumnya. Ukurannya mengikuti standar member card, sehingga pas di dompet. Untuk ketahanan ekstra, tersedia juga opsi laminating. Ingin desain sesuai gaya pribadi atau branding komunitas? Tentu bisa, karena kami menerima custom desain. Bahkan, untuk Anda yang butuh fleksibilitas digital, kami juga menyediakan versi flashdisk card.</p>
               </div>
               <a
                 href="https://wa.me/6283150645824?text=Halo%2C%20saya%20tertarik%20dengan%20kartu%20typology%20PVC-nya.%20Boleh%20saya%20custom%20desain%3F%20Berapa%20lama%20prosesnya%20dan%20apakah%20bisa%20versi%20flashdisk%3F%20Saya%20suka%20banget%20konsepnya%21
