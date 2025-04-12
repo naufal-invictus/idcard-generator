@@ -190,7 +190,7 @@ export default function GUPIDCardGenerator() {
                             <div className="p-2 flex items-center justify-between bg-white bg-opacity-20">
                                 <img src={gupLogos[form.school]} alt="logo sekolah" className="w-6 h-6 mr-2" />
 
-                                <h2 className="text-sm font-bold tracking-widest">GuP ID CARD</h2>
+                                <h2 className="text-sm font-bold tracking-widest">GUP ID CARD</h2>
                                 <span className="text-[10px] font-mono">#{idNumber}</span>
                             </div>
                             <div className="absolute top-12 right-1 text-[10px] px-2 font-bold text-yellow-300">
